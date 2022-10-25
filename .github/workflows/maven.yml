@@ -26,4 +26,4 @@ jobs:
               StrictHostKeyChecking no
           END
       - name: Test ssh write
-        run: ssh staging 'cd estrella && bash deploy.sh'
+        run: ssh staging 'cd vuelo && bash deploy.sh'
