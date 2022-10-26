@@ -1,0 +1,83 @@
+cuenta gmail
+dms.fourteam@gmail.com
+Alvarosiles1
+
+cuenta github
+dms.fourteam@gmail.com
+dms.fourteam@gmail.com
+
+Google cloud
+dms.fourteam@gmail.com
+Alvarosiles1
+
+Siempre Persona Fisica
+computer engine
+
+14 enero dar de baja, google cloud
+
+step1.- entra al SSh web del droplet
+step1.- cd .ssh/
+step1.- ls
+step1.-	vim authorized_keys
+step1.-	pegas el id_rsa-pub de la computadora cliente
+step1.- ctrl+c
+step1.-	:wq!
+step1.-	sudo passwd
+step1.-	123
+step1.-	sudo passwd dms_fourteam
+step1.-	123
+
+
+step2.- ssh dms_fourteam@34.125.212.163
+step2.-	su root
+step2.-123
+step2.- su
+step2.- snap install docker
+step2.-
+step2.-
+step2.-
+
+
+ver todos los puertos ubuntu
+sudo ss -ltnp
+luego entrar con su root
+kill 3999
+
+
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/8wrfzjerX0vhL+GPla7usyxFpKMevHSONwwmd6sKbrkEcXMI/0ILIcw7vZUIYOqrZTwh+k1kUjrG0skwKSZzGuY51YaPd00FaGTn6XflvVQWNHBFdg6bop3zIfMzQLlEJeSmyHqtzhg8nVfJqM8FJve9EXrnkMGuzXHB2unWlEoHNLXR22YXFuCPN82C1wWZH+7ob7fEdTFq4H4rWJZL1nk9hICFB18UZGKELU11vvc1Vip41yBp/iEZtqdfm8TDLs6Q6boLp2JyEigMX6dTMvxNpIH0G37ADCkNPeU0T3ECKhfbyvQMNmZrXfi3kUi2QbcD0OQ5wV9dc+18vVfLxmxtZBcJ5+wb0NmQ9sjPrj+f6/YSzvkT4+z6ZgROT7iVH6uRP3Y1m2JjQ/do5FcrzIGoi+uIdRvMsPDkF4yB/HAv/eo3dTb4jAJZ8jfGVhhbB5P0WMxoy7Yu2L6bWMHIa51ouCuKwGFQXCpJ3qKcs2J1GXT6qjSQhQ4OpMxxGoc= alvaro@alvaro-Inspiron-5567
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDS5eg3smL1GP0ji3EWZmpoGhI3ZNXuF49ZlGMQ1uJixxgHz9nFS+iFGdXsvY2/4MKQKT+7s5evctlaOSIQPNFrLKRmSH24Gxg2uxgnNIl28PvkByuUY6FdsFRwJ7cZyCJCki5bTZQdIP2SH1CsapFIwy//rgnbuzaHTRyD3z5x8adocJmHJLNombXIoihraEAGbhlJNSIiOaUC+w8QMCF38FC2BDnI+otjTEfEIjfoUzQRYS+kiUAWsH5/Lq/NNx0DT+ocbEd6xRepBLQE/OlVf2s6FS48lZ4uU5prJBFSq1iQ1SJC0x88DC56e4IV/5DKVSsq1iIdw15yxp2rhlSCn1KCupy/br/bYTcOHBrfYOisMzQSlYpvTha2RolQxxSkSt1XM3q0Vw3ADhs/AN5bhEPUWq4nz0eKXesQKBUIIx+OV70qP7ceoRjGjUrI/KSaeoMPM+ejbxk1Z3rfXl2bFQtu2gV1O2ZNIRQVm38By/evu3W0h2LRNbsEJUwyFXc= rickypazd@Ricardos-MacBook-Pro.local
+
+
+sudo apt-get upgrade && \
+sudo apt-get update && \
+sudo apt-get install -y dotnet6 && \
+
+sudo apt-get update && \
+sudo snap install docker && \
+
+sudo ufw enable && \
+sudo ufw allow 80 && \
+sudo ufw allow 81 && \
+sudo ufw allow 22 && \
+sudo ufw allow 27017 && \
+sudo ufw allow 5672 && \
+sudo ufw allow 15672 && \
+sudo ufw allow 5080 && \
+sudo ufw allow 7080 && \
+sudo ufw status && \
+
+sudo dotnet --version && \
+sudo docker -v && \
+sudo docker-compose -v && \
+sudo ufw status
+
+docker-compose build
+
+
+
+
+
